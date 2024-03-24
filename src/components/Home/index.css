@@ -1,0 +1,15 @@
+.courses-cont {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.loader-cont {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home {
+  height: 80vh;
+}
